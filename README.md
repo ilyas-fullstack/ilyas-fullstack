@@ -1,4 +1,5 @@
 # Hi, I'm Ilyas 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ilyas%20Habibullah&fontAlign=50&fontSize=40&fontColor=fff&color=0:06B6D4,100:3B82F6" />
 
 💻 Full Stack JavaScript Developer  
 🐧 Linux Enthusiast  
