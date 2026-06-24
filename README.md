@@ -19,14 +19,6 @@
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ilyas-cyber-and-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-cyber-and-dev&layout=compact&theme=tokyonight)
-
----
-
 ##  Current Goals
 
 - Build Full Stack Projects
