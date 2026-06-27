@@ -1,7 +1,8 @@
 # Hi, I'm Ilyas 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ilyas%20Habibullah&fontAlign=50&fontSize=40&fontColor=fff&color=0:06B6D4,100:3B82F6" />
 
-💻 Full Stack JavaScript Developer  
+💻 Full Stack JavaScript Developer 
+📱 Flutter Mobile Developer
 🐧 Linux Enthusiast  
 🚀 Currently learning Next.js, PostgreSQL, and System Design
 
@@ -22,6 +23,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Mobile app
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
